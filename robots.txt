@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cstr07.github.io/conteo-cartas/sitemap.xml
+Sitemap: https://cstr07.github.io/bjcountcstr/sitemap.xml
